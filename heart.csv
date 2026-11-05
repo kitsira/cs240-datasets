@@ -8,12 +8,12 @@ Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseA
 57,M,ASY,152,274,0,Normal,88,Y,1.2,Flat,1
 48,M,ATA,130,245,0,LVH,180,N,0.2,Flat,0
 39,M,ASY,110,280,0,Normal,150,N,0.0,Flat,1
-48,M, ,160,329,0,Normal,92,Y,1.5,Flat,1
+48,M,,160,329,0,Normal,92,Y,1.5,Flat,1
 46,M,ASY,120,277,0,Normal,125,Y,1.0,Flat,1
-54,M,TA,120,171,0,Normal,137,N,2.0,Up,0
+54,M,,120,171,0,Normal,137,N,2.0,Up,0
 54,M,ATA,110,208,0,Normal,142,N,0.0,Up,0
 53,M,ASY,142,226,0,LVH,111,Y,0.0,Up,0
-54,M,ATA,192,283,0,LVH,195,N,0.0,Up,1
+54,M,,192,283,0,LVH,195,N,0.0,Up,1
 47,M,NAP,108,243,0,Normal,152,N,0.0,Up,1
 55,M,ATA,145,326,0,Normal,155,N,0.0,Up,0
 52,M,ATA,128,205,1,Normal,184,N,0.0,Up,0
